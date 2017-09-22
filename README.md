@@ -9,13 +9,13 @@ T-Shirt Sizing Chart
 Directions:
 Use the sizing chart above, create a series of logical expressions that prints the size of a t-shirt based on the measurements of shirtWidth, shirtLength, and shirtSleeve. Valid sizes include S, M, L, XL, 2XL, and 3XL.
 
-SIZE  WIDTH LENGTH    SLEEVE
-S      18"   28"      8.13"
-M      20"   29"      8.38" 
-L      22"   30"      8.63"
-XL     24"   31"      8.88"
-2XL    26"   33"      9.63"
-3XL    28"   34"      10.13"
+SIZE  WIDTH LENGTH    SLEEVE</br>
+S      18"   28"      8.13"</br>
+M      20"   29"      8.38"</br> 
+L      22"   30"      8.63"</br>
+XL     24"   31"      8.88"</br>
+2XL    26"   33"      9.63"</br>
+3XL    28"   34"      10.13"</br>
 
 For example, if...
 
